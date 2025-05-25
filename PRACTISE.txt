@@ -1,0 +1,13 @@
+<HTML>
+<head>
+<title><a><b><center>money</center></b></a></title>
+</head>
+<body>
+<h1>what is it</h1>
+money is paper used to purchase goods and services
+<br>
+money does not grow from tress .money is not for free
+<button>money</button>
+<button>love</button>
+</body>
+</html>
